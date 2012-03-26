@@ -5,6 +5,7 @@
 #include <cstring>
 #include "bitmap.h"
 
+//this is for test ssh-agent
 //just for test branch
 /*
  * construction function
