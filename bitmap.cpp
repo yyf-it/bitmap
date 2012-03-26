@@ -4,6 +4,8 @@
 #include <cstdio>
 #include <cstring>
 #include "bitmap.h"
+
+//just for test branch
 /*
  * construction function
 */
